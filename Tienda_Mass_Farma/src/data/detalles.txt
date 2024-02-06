@@ -1,0 +1,4 @@
+1001	1001	1001	Paracetamol 100mg	19.99	10
+1002	1005	1001	Pañales Pampers	20.0	5
+1003	1001	1002	Paracetamol 100mg	19.99	10
+1004	1005	1002	Pañales Pampers	20.0	20

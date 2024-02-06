@@ -1,0 +1,9 @@
+1001	Paracetamol 100mg	19.99	2	35	100	Marca1
+1002	Ibuprofeno	29.99	2	25	110	Marca2
+1003	Panadol	39.99	2	35	115	Marca3
+1004	Paracetamol 500mg	39.99	2	80	110	Marca4
+1005	Pañales Pampers	20.0	1	55	100	Pampers
+1006	Vitualux Plus NF	71.8	4	20	100	Alcori
+1007	Crema hidratante 453g	88.45	0	44	100	CeraVe
+1008	Gasa Asétptica Fraccionada Medical 10mx10cm	3.5	3	20	50	Medical
+1009	Suerox Adulto Mora Azul 630ml	5.9	5	20	20	Suerox
